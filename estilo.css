@@ -1,0 +1,24 @@
+h1{
+	color:red;
+	font-size:50px;
+	
+}
+
+.tabela{
+	font-size: 20px;
+	border: 2px solid black;
+	background-color: white;
+}
+td{
+	border: 1px solid black;
+}
+
+.fundo_borda{
+	background-color: #BDBDBD;
+}
+.hor_vago{
+	background-color: #FF0000;
+}
+.fundo_comeco{
+	background-color: #585858;
+}
